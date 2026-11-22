@@ -24,3 +24,8 @@ PHP, MySQL, XAMPP, HTML, dan CSS.
 
 ## Catatan
 Konfigurasi awal database menggunakan host `localhost`, user `root`, password kosong, dan nama database `latihan1`. Sesuaikan `koneksi.php` jika konfigurasi MySQL berbeda.
+
+## Screenshot Hasil Praktikum
+Berikut adalah tampilan antarmuka dari aplikasi web CRUD data barang yang telah dibuat[cite: 5]:
+
+![Tampilan Dashboard Inventaris](screenshots/dashboard.png)
