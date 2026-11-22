@@ -35,3 +35,6 @@ dashboard.png)
 
 ![Halaman daftar barang](gambar/<img width="960" height="600" alt="Screenshot 2026-11-22 182808" src="https://github.com/user-attachments/assets/e9da6a3f-fb95-4d71-86ed-a8a4f167b417" />
 index.png)
+
+![Halaman tambah barang](gambar/<img width="803" height="475" alt="Screenshot 2026-11-22 173919" src="https://github.com/user-attachments/assets/b68bc17b-f6bd-42d7-b2be-046166f3fea0" />
+tambah.png)
