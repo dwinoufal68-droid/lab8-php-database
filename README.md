@@ -38,3 +38,6 @@ index.png)
 
 ![Halaman tambah barang](gambar/<img width="803" height="475" alt="Screenshot 2026-11-22 173919" src="https://github.com/user-attachments/assets/b68bc17b-f6bd-42d7-b2be-046166f3fea0" />
 tambah.png)
+
+![Halaman ubah barang](gambar/u<img width="424" height="373" alt="Screenshot 2026-11-22 180901" src="https://github.com/user-attachments/assets/e696b4c0-49b7-437c-ad35-410ef72606a6" />
+bah.png)
