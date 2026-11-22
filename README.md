@@ -28,4 +28,5 @@ Konfigurasi awal database menggunakan host `localhost`, user `root`, password ko
 ## Screenshot Hasil Praktikum
 Berikut adalah tampilan antarmuka dari aplikasi web CRUD data barang yang telah dibuat[cite: 5]:
 
-![Tampilan Dashboard Inventaris](screenshots/dashboard.png)
+![Tampilan Dashboard Inventaris](screenshots/<img width="940" height="495" alt="Screenshot 2026-11-22 183812" src="https://github.com/user-attachments/assets/bf91dd93-85b6-4594-bee9-5bcc22fff8c6" />
+dashboard.png)
