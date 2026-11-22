@@ -30,3 +30,8 @@ Berikut adalah tampilan antarmuka dari aplikasi web CRUD data barang yang telah 
 
 ![Tampilan Dashboard Inventaris](screenshots/<img width="940" height="495" alt="Screenshot 2026-11-22 183812" src="https://github.com/user-attachments/assets/bf91dd93-85b6-4594-bee9-5bcc22fff8c6" />
 dashboard.png)
+
+## Tampilan Aplikasi
+
+![Halaman daftar barang](gambar/<img width="960" height="600" alt="Screenshot 2026-11-22 182808" src="https://github.com/user-attachments/assets/e9da6a3f-fb95-4d71-86ed-a8a4f167b417" />
+index.png)
